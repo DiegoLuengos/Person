@@ -16,4 +16,11 @@ public class Person
     {
       age = newAge ;
     }
+    /**
+     * Devuelve la edad de la persona
+     */
+    public int getAge()
+    {
+        return age;
+    }
 }
