@@ -12,8 +12,8 @@ public class Person
     /**
      * Constructor for objects of class Person
      */
-    public Person()
+    public Person(int newAge)
     {
-      age = 0 ;
+      age = newAge ;
     }
 }
