@@ -14,6 +14,6 @@ public class Person
      */
     public Person()
     {
-       
+      age = 0 ;
     }
 }
